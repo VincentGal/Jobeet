@@ -1,0 +1,2 @@
+[Wed Sep 05 17:37:41.313306 2012] [access_compat:error] [pid 6688:tid 1788] [client 127.0.0.1:55906] AH01797: client denied by server configuration: C:/www/symfony.dev/joobet
+[Wed Sep 05 17:37:46.289715 2012] [access_compat:error] [pid 6688:tid 1788] [client 127.0.0.1:55906] AH01797: client denied by server configuration: C:/www/symfony.dev/joobet
